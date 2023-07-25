@@ -17,7 +17,6 @@ import net.minecraft.client.network.ClientPlayerEntity;
 import net.minecraft.client.network.ServerInfo;
 import net.minecraft.client.realms.gui.screen.RealmsMainScreen;
 import net.minecraft.text.TranslatableTextContent;
-import org.apache.logging.log4j.core.jmx.Server;
 
 import java.util.Iterator;
 import java.util.concurrent.*;
